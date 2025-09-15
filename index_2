@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome!</title>
+</head>
+<body style= "background-color: skyblue;">
+
+    <p style="color:black; font-size:20px; font-family:verdana;">
+    <ol>
+    <li> Html </li>
+        <ul>
+            <a href= "https://www.w3schools.com/html/default.asp" target="_blank" title="A link to W3schools html." >W3schools HTML</a>
+        </ul>
+
+    <li> Css </li>
+        <ul>
+            <a href="https://stackoverflow.com/questions" target ="_blank" title="A link to Stack Overflow.">Stack Overflow</a>
+        </ul>
+            
+     <li> Browsers </li>
+        <ul>
+            <a href="https://www.google.com/chrome/" target="_blank" title="A link to Google Chrome.">Google Chrome</a>
+        </ul>
+
+     <li> Etc </li>
+        <ul>
+            <a href="https://docs.github.com/en" target="_blank" title="A link to GitHub">Github</a>
+        </ul>
+ 
+   </ol>
+
+
+</body>
+</html>
